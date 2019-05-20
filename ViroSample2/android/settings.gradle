@@ -1,0 +1,3 @@
+rootProject.name = 'ViroSample2'
+
+include ':app'
